@@ -45,3 +45,7 @@ Corrections to their supplementary data are described in the Supplementary Mater
 ## Citation
 
 If you use this model, please cite the paper above.
+
+## Licence
+   This work is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+   See LICENSE or https://creativecommons.org/licenses/by/4.0/.
